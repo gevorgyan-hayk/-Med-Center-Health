@@ -1,0 +1,101 @@
+@media screen and (max-width: 800px) {
+    body{
+
+    }
+.card {
+    width: 100%;
+    padding: 20px;
+}
+    .u-similar-card{
+        width: 100%;
+
+        .row{
+            justify-content: space-around;
+        }
+
+    }
+    .card-3{
+        padding: 20px;
+    }
+}
+.sample-text{
+    padding: 30px;
+}
+.card-dr{
+    width: 100%;
+}
+.card-3{
+    padding:20px ;
+}
+.card-dr{
+    width: 100%;
+}
+.card-text{
+    display-grid:none;
+
+}
+@media screen and (max-width: 800px) {
+    .dr-img{
+        img{
+            height: 750px;
+            width: 400px;
+        }
+
+
+    }
+    .dr-text{
+
+        width: 100%;
+
+    }
+
+    .about-text{
+        width: 51%;
+        padding: 20px 0;
+    }
+
+}
+@media screen and (max-width: 650px) {
+    .dr-img {
+        img {
+            height: 500px;
+            width: 250px;
+        }
+    }
+    .u-similar-card{
+        padding:30px 0;
+    }
+    .img-1{
+        width: 100%;
+
+    }
+    .card-info{
+        padding: 20px 0;
+        width: 100%;
+    }
+    .card-1{
+        width: 100%;
+    }
+    .card-3{
+        width: 100%;
+    }
+    .card-4{
+        width: 100%;
+    }
+    .sample-text{
+        width: 100%;
+    }
+    .sample-title{
+        font-size: 30px;
+    }
+    .card-dr{
+        width: 100%;
+    }
+    .card-text{
+        width: 100%;
+    }
+}
+
+
+
+
